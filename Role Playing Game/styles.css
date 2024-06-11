@@ -6,7 +6,6 @@ body {
   background-color: #9797df;
   color: #ffffff;
   padding: 10px;
-  border-radius: 20px;
 }
 
 #game {
@@ -16,15 +15,15 @@ body {
   color: #ffffff;
   margin: 30px auto 0px;
   padding: 10px;
+}
+.radius{
   border-radius: 20px;
 }
-
 #controls,
 #stats {
   border: 1px solid #0a0a23;
   padding: 5px;
   color: #0a0a23;
-  border-radius: 20px;
 }
 
 #monsterStats {
@@ -45,5 +44,4 @@ button {
   background-color: #6a61bd;
   background-image: linear-gradient(#6a61bd, #8780c9);
   border: 3px solid #6a61bd;
-  border-radius: 20px;
 }
