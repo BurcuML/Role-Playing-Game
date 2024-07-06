@@ -7,7 +7,9 @@ body {
   color: #ffffff;
   padding: 10px;
 }
-
+#text::selection{
+  background-color: #0196A5;
+}
 #game {
   max-width: 500px;
   max-height: 400px;
